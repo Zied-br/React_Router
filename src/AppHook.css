@@ -1,0 +1,27 @@
+html {
+  background-color: rgb(42, 44, 92);
+}
+.Card {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #404c96;
+  border-radius: 7px;
+  width: 84.6%;
+  margin: auto;
+  margin-top: 50px;
+  color: aliceblue;
+}
+.card {
+  --bs-card-bg: rgb(84, 93, 151);
+  opacity: 85%;
+}
+.form-label {
+  width: 200px;
+}
+.mb-3 {
+  width: 400px;
+  color: aliceblue;
+  font-weight: lighter;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+}
